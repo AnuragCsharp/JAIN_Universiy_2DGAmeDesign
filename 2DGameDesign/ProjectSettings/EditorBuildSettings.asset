@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/2DGameDesign_JAIN/Bubble_ShooterGame/MenuScene_B.unity
+    guid: b5da56e850291df498b7c46f8daeffdc
+  - enabled: 1
+    path: Assets/2DGameDesign_JAIN/Bubble_ShooterGame/MainGame_B.unity
+    guid: cdcac0364784cda4ca08945041567d01
   m_configObjects: {}
